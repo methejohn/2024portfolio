@@ -304,6 +304,7 @@
                             transform: translate(-50%, -50%);
                             width: 35%;
                             height: auto;
+                            
                             @include tablet{
                                 width: 45%;
                             }
